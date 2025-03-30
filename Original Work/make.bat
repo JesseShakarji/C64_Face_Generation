@@ -1,0 +1,1 @@
+cl65 bitcamp.c -Cl -Osir -o bitcamp.prg
